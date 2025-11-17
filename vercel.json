@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "public": false,
-  "buildCommand": null,
   "outputDirectory": "build/web",
   "rewrites": [
     {
